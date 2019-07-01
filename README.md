@@ -1,0 +1,2 @@
+# BugsKu
+Collect common vulnerabilities
